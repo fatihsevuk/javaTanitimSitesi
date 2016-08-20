@@ -1,0 +1,16 @@
+<h2>İletişim</h2>
+
+<p>Email adresimiz xyz@xyz.com</p>
+<h3>Şubelerimiz:</h3>
+<div ng-repeat="location in locations">
+    <ul class="location">
+        <li>{{location.isim}} Bölgesi</li>
+        <li>{{location.il}}</li>
+        <li>{{location.ilce}}</li>
+        <li>{{location.adres}}</li>
+        <li>{{location.postaKodu}}</li>
+        <li>{{location.tel}}</li>
+    </ul>
+    <hr/>
+
+</div>

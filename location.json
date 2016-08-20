@@ -1,0 +1,46 @@
+
+
+[  {
+    "id":1,
+    "isim":"Marmara",
+    "adres":"aydın mahallesi ,çınar sokak,no:12-13",
+    "ilce":"Pendik",
+    "il":"İstanbul",
+    "postaKodu":"34000",
+    "tel":"212-000-00-01"
+
+  },
+  {
+    "id":2,
+    "isim":"Ege",
+    "adres":"kocatepe mahallesi ,ağaç sokak,no:14-13",
+    "ilce":"Bornova",
+    "il":"İzmir",
+    "postaKodu":"35000",
+    "tel":"213-000-00-01"
+  },
+  {"id":3,
+    "isim":"Akdeniz",
+    "adres":"sahil mahallesi ,deniz sokak,no:78-98",
+    "ilce":"Kaş",
+    "il":"Antalya",
+    "postaKodu":"13000",
+    "tel":"269-000-00-01"},
+  {"id":4,
+    "isim":"Doğu Anadolu",
+    "adres":"sanayi mahallesi ,yıldırım sokak,no:12-13",
+    "ilce":"Yakutiye",
+    "il":"Erzurum",
+    "postaKodu":"25000",
+    "tel":"442-000-00-01"},
+  {"id":5,
+    "isim":"Karadeniz",
+    "adres":"çamlıbel mahallesi ,burçak sokak,no:34-13",
+    "ilce":"Güneysu",
+    "il":"Rize",
+    "postaKodu":"28000",
+    "tel":"598-000-00-01"}
+
+
+
+]
